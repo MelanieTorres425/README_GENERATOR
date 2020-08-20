@@ -27,7 +27,7 @@
 
 ## License <a name="license"></a>
 
-- This application is covered under MIT license.
+- This application is covered under **MIT** license.
 
 ## Contribution Guideline <a name="contribution"></a>
 
@@ -41,9 +41,9 @@
 
 Any questions? Please Contact Below
 
-- GitHub Link:
+- **GitHub Link:**
   [melanietorres425](https://github.com/melanietorres425)
-- Email:
+- **Email:**
   melanietorres425@live.com
 
 ## Screenshots <a name="screenshots"></a>
