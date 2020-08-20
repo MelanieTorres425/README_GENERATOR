@@ -1,0 +1,23 @@
+{
+  "name": "package.json",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^6.3.1"
+  },
+  "description": "README Generator",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MelanieTorres425/README-Generator.git"
+  },
+  "bugs": {
+    "url": "https://github.com/MelanieTorres425/README-Generator/issues"
+  },
+  "homepage": "https://github.com/MelanieTorres425/README-Generator#readme"
+}
