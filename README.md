@@ -1,51 +1,36 @@
-# README-Generator
+# README_GENERATOR
+  ![GitHub](https://img.shields.io/github/license/melanietorres425/README_GENERATOR)
 
-![GitHub](https://img.shields.io/github/license/melanietorres425/README-Generator)
-
-## Description <a name="description"></a>
-
-- An application that will help you generate a quick & easy README.md file.
-
-## Table of Contents
-
-1. [Description](#Description)
-2. [Installation Instructions](#Installation)
-3. [Usage Information](#usage)
-4. [License](#license)
-5. [Contribution Guideline](#contributing)
-6. [Test Instructions](#test)
-7. [Questions](#questions)
-8. [Screenshots](#screenshots)
-
-### Installation Instructions <a name="installation"></a>
-
-- npm i
-
-### Usage Information <a name="Usage"></a>
-
-- This project uses Node. Type in node index.js to start program.
-
-## License <a name="license"></a>
-
-- This application is covered under MIT license.
-
-## Contribution Guideline <a name="contribution"></a>
-
-- The guidelines to contribute to the source is to fork the project, check for any known issues, and work on any changes to help improve the code.
-
-## Test Instructions <a name="tests"></a>
-
-- Type in "npm run test" in your terminal to test functions.
-
-## Questions <a name="questions"></a>
-
-Any questions? Please Contact Below
-
-- GitHub Link:
-  [melanietorres425](https://github.com/melanietorres425)
-- Email:
+  ## Description <a name="description"></a>
+  - This will generate a **good** README for your next project. Its so simple , I promise, you'll be creating README's in half the time. 
+  ## Table of Contents
+  1. [Description] (#Description)
+  2. [Installation Instructions](#Installation)
+  3. [Usage Information](#usage)
+  4. [License](#license)
+  5. [Contribution Guideline](#contributing)
+  6. [Test Instructions](#test)
+  7. [Questions](#questions)
+  8. [Screenshots](#screenshots)
+ 
+ 
+  ### Installation Instructions <a name="installation"></a>
+  - To install you would copy the **ssh** or **https** link and clone in your terminal. In the repo using terminal and type "npm i" to install the **package.json** & **node modules**. 
+  ### Usage Information <a name="Usage"></a>
+  - Using node, type "node index.js" to start. You will be asked 7 questions and the program will create a simple yet informative README. 
+  ## License <a name="license"></a>
+  - This application is covered under MIT license. 
+  ## Contribution Guideline <a name="contribution"></a>
+  - Fork the project , and work to improve code or program itself. 
+  ## Test Instructions <a name="tests"></a>
+  - Type "npm run test" for jest to run a test on the functions. 
+  ## Questions <a name="questions"></a>
+  Any questions? Please Contact Below
+  - GitHub Link: 
+  [melanietorres425](https://github.com/melanietorres425) 
+  - Email: 
   melanietorres425@live.com
+  ## Screenshots <a name="screenshots"></a>
+  ![](././Develop/screenshots/Screenshot1.png)
+  
 
-## Screenshots <a name="screenshots"></a>
-
-![](././Develop/screenshots/Screenshot1.png)
